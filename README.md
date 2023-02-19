@@ -1,5 +1,7 @@
 # SageBunnyPhx1
 
+An implementation of the [sage-bunny_specification](https://github.com/jjabraham/sage-bunny-specification) in Elixir/Phoenix/postgres
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
